@@ -9,7 +9,6 @@ The **LinkedIn AI Reply** Chrome Extension generates AI-powered responses for Li
 
 Here’s a short video demonstration of the extension in action:
 
-<video width="640" height="360" controls>
-  <source src="LinkedInAIReply.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+[![Watch the video](https://raw.githubusercontent.com/codewithsupra/LinkedInReply/main/thumbnail.png)](https://raw.githubusercontent.com/codewithsupra/LinkedInReply/main/LinkedInAIReply.mp4)
