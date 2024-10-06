@@ -9,7 +9,12 @@ Here’s a short video demonstration of the extension in action:
 
 ## Video Demo
 
+
+
 Here’s a short video demonstration of the extension in action:
 
-[![Watch the video](LinkedInAIReply.mp4)](LinkedInAIReply.mp4)
+<video width="600" controls>
+  <source src="LinkedInAIReply.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
